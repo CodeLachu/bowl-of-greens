@@ -1,7 +1,4 @@
-import React from "react";
 import "../landing.css";
-import { motion } from "motion/react";
-import { small } from "motion/react-client";
 
 const Landing = () => {
   return (
